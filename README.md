@@ -1,9 +1,9 @@
 # hey 👋👋👋
 
-- 👨‍💻 Meu Nome é Caio Cesar, tenho 25 anos e faço faculdade de ciência da computação.
+- 👨‍💻 Meu Nome é Caio Cesar, tenho 27 anos e faço faculdade de ciência da computação.
 - 👨‍💻 Atualmente ando programando em Javascript, HTML e CSS, entre outras linguagens de programação
-- 👨‍💻 Moro em Guarulhos/SP
-- 👨‍💻 Estágiario back end na Alelo.
+- 👨‍💻 Moro em Ermelino Maratazzo/SP
+- 👨‍💻 Analista Júnior back end na Alelo.
 
 
    #### 🌍 Quanto mais eu sei, mais eu sou!  🧠
